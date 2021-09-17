@@ -1,12 +1,6 @@
 import React from 'react'
 import { ContainerFlex, Header, NavigationMenu } from '../components'
-
-const routing = [
-  { text: 'Home', url: '/' },
-  { text: 'About', url: '/about' },
-  { text: 'Projects', url: '/projects' },
-  { text: 'Contact', url: '/contact' },
-]
+import { routing } from '../routing'
 
 const Home = () => {
   return (

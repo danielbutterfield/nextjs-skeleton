@@ -1,0 +1,6 @@
+export const routing = [
+  { text: 'Home', url: '/' },
+  { text: 'About', url: '/about' },
+  { text: 'Projects', url: '/projects' },
+  { text: 'Contact', url: '/contact' },
+]
