@@ -9,7 +9,7 @@ const Custom404 = () => {
       <NavigationMenu links={routing} />
       <div className="error404">
         <div>
-          <p>Hmm, you shouldn't be here. Turn back!</p>
+          <p>🚔 Hmm, you shouldn't be here. Turn back! 🚔</p>
           <Image src={pokemonGif} alt="Something" />
         </div>
       </div>
