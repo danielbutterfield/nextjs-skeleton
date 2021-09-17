@@ -10,7 +10,7 @@ const Custom404 = () => {
       <div className="error404">
         <div>
           <p>🚔 Hmm, you shouldn't be here. Turn back! 🚔</p>
-          <Image src={pokemonGif} alt="Something" />
+          <Image src={pokemonGif} alt="Startled Pokemon" />
         </div>
       </div>
     </>
