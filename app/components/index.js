@@ -1,3 +1,4 @@
+import ContainerFlex from './ContainerFlex'
 import Header from './Header'
 
-export { Header }
+export { ContainerFlex, Header }

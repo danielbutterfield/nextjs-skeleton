@@ -19,3 +19,11 @@ a {
 .app {
   text-align: center;
 }
+
+.container {
+  &--flex {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+}
