@@ -1,9 +1,13 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Button, ContainerFlex, Header, NavigationMenu } from '../components'
 import { routing } from '../routing'
 
 const Home = () => {
   const [count, setCount] = useState(0)
+
+  useEffect(() => {
+    // Something...
+  }, [])
 
   const increaseCount = () => setCount(count + 1)
 
