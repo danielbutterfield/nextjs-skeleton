@@ -1,0 +1,21 @@
+.btn {
+  position: relative;
+  display: inline-block;
+  padding: 5px 20px;
+  line-height: 20px;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  margin: 5px;
+
+  color: $text-button;
+  background-color: #f6f8fa;
+  border-color: $border-primary;
+
+  background-color: $primary;
+
+  &:hover {
+    background-color: darken($primary, 2%);
+    transition-duration: 0.3s;
+  }
+}
