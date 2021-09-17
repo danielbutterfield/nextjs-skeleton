@@ -6,7 +6,7 @@ This aims to reduce that first initial repetitiveness.
 
 ## 🔨 How to run it?
 
-Well I left the Next.js README in `/app` which has some useful information but the simple answer is: `cd /app` and `npm run dev`.
+Well I left the Next.js README in `app` which has some useful information but the simple answer is: `cd /app` and `npm run dev`.
 
 ## ☠️ What does the skeleton have?
 
