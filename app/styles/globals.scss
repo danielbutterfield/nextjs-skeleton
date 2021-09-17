@@ -1,5 +1,11 @@
+// Generic Imports
+
 @import 'colors';
 @import 'mixins';
+
+// Component Specific
+
+@import 'components/navigation';
 
 html,
 body {
